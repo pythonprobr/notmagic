@@ -1,0 +1,4 @@
+double-dispatch.pdf
+    ARITHMETIC AND DOUBLE DISPATCHING IN SMALLTALK-80
+    Kurt J. Hebel and Ralph E. Johnson
+    https://wiki.engr.illinois.edu/download/attachments/186744921/double-dispatch.pdf

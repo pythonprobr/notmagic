@@ -1,8 +1,12 @@
 *.py[cod]
 
+#LR
+.venv/
+.py3/
+_build/
+
 # C extensions
 *.so
-
 # Packages
 *.egg
 *.egg-info
